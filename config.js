@@ -3,10 +3,10 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285770190255'] 
+global.owner = ['6289526306636'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6285770190255']
+global.kontak = ['6289526306636']
 
 //  INFO BOT 
 global.naown = 'HanzOfc'
@@ -22,7 +22,7 @@ global.web = 'https://hanz.my.id' //ubah jadi website lu, bisa link ig, link git
 global.saweria = 'https://saweria.co/XiaomiBOT'
 
 // PAYMANT 
-global.dana = '085779150501'
+global.dana = '089526306636'
 global.pulsa = '085770190255'
 global.gopay = '085779150501'
 global.shopay = '-'
