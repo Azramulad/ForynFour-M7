@@ -9,13 +9,13 @@ global.prems = []
 global.kontak = ['6289526306636']
 
 //  INFO BOT 
-global.naown = 'HanzOfc'
-global.noown = '6285770190255'
-global.namebot = 'XiaomiBOT'
-global.nobot = '62857791505013'
+global.naown = 'MR.GR67'
+global.noown = '6283177360202'
+global.namebot = 'WABOT IXB'
+global.nobot = '6283177360202'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/rangga_botz'
+global.instagram = '_'
 global.github = 'https://github.com/XiaomiBOT'
 global.gc = 'https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM'
 global.web = 'https://hanz.my.id' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
@@ -23,10 +23,10 @@ global.saweria = 'https://saweria.co/XiaomiBOT'
 
 // PAYMANT 
 global.dana = '089526306636'
-global.pulsa = '085770190255'
-global.gopay = '085779150501'
+global.pulsa = '_'
+global.gopay = '_'
 global.shopay = '-'
-global.ovo = '085779150501'
+global.ovo = '_'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
